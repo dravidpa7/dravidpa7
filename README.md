@@ -16,7 +16,7 @@
 ![Dravid's GitHub stats](https://github-readme-stats.vercel.app/api?username=dravidpa7&show_icons=true&theme=radical)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dravidpa7&theme=dark&hide_border=true)
+![](https://streak-stats.demolab.com?user=dravidpa7&theme=dark&hide_border=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
