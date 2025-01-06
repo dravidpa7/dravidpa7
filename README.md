@@ -16,6 +16,7 @@
 ![Dravid's GitHub stats](https://github-readme-stats.vercel.app/api?username=dravidpa7&show_icons=true&theme=radical)
 
 
+![GitHub Streak](https://streak-stats.demolab.com?user=<your-username>&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dravidpa7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
