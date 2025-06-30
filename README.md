@@ -46,14 +46,7 @@ If you like my work or want to support my learning journey:
 
 <p> <a href="https://buymeacoffee.com/dravidpa"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /> </a> </p>
 <p align="center"> <img src="https://visitcount.itsvg.in/api?id=dravidpa7&icon=0&color=0" /> </p> <!-- Proudly created with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
-yaml
-Copy
-Edit
 
----
-
-✅ **Copy and paste** this into your `README.md` on GitHub.  
-Let me know if you want to add project cards, timeline, or contribution trophies for even more flair!
 
 
 
