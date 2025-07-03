@@ -50,20 +50,32 @@ Interactive web platform for data transformation and cleaning
 
 ---
 
-## GitHub Stats
-
 <div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dravidpa7&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dravidpa7&layout=compact&theme=default&hide_border=true&langs_count=6"/>
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dravidpa7&theme=tokyonight)
 
 </div>
 
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dravidpa7&theme=default&hide_border=true)
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dravidpa7&theme=tokyo-night)
 
 </div>
+
+## 🏆 Achievements & Stats
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dravidpa7&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+</div>
+
+<div align="center">
+  
+[![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=dravidpa7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/dravidpa7)
+
+</div>
+
 
 ---
 
