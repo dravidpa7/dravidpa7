@@ -1,60 +1,199 @@
-<h1 align="center">👋 Hi, I'm Dravid P.A</h1>
-<h3 align="center">🚀 Full Stack Developer | Lifelong Learner | Tech Enthusiast</h3>
+<div align="center">
+  
+# 🚀 Dravid P.A
+### Full Stack Developer | Data Architect | Open Source Contributor
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dravidpa7&label=Profile%20views&color=0e75b6&style=flat" alt="dravidpa7" />
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=dravidpa7&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/dravidpa7)
+[![GitHub followers](https://img.shields.io/github/followers/dravidpa7?style=flat-square&color=blue)](https://github.com/dravidpa7)
+[![GitHub stars](https://img.shields.io/github/stars/dravidpa7?style=flat-square&color=yellow)](https://github.com/dravidpa7)
 
----
-
-🌱 **Currently Learning:**  
-Java Full Stack Development – diving deep into Spring Boot, REST APIs, and modern front-end frameworks.
-
-🤝 **Looking to Collaborate On:**  
-[Data Cleaning Playground](https://datacleaning-playground.onrender.com/) – a web-based tool to explore and clean messy datasets interactively.
+</div>
 
 ---
 
-## 🌐 Connect With Me:
-<p align="left">
-  <a href="https://instagram.com/dravid.p.a_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/dravid-p-a-" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+## 🎯 About Me
 
----
+I'm a passionate **Full Stack Developer** with a keen eye for transforming complex problems into elegant, scalable solutions. Currently mastering the art of **Java Full Stack Development**, diving deep into enterprise-grade applications with Spring Boot, microservices architecture, and modern frontend frameworks.
 
-## 💻 Tech Stack:
-```bash
-Languages:        Java, Python, C, HTML, CSS
-Frameworks:       Django, Streamlit
-Frontend Tools:   Figma, Bootstrap
-Data Tools:       Pandas, NumPy, Matplotlib, MySQL
-DevOps/Hosting:   Git, Render
+```javascript
+const dravid = {
+    pronouns: "he/him",
+    code: ["Java", "Python", "JavaScript", "C"],
+    askMeAbout: ["web dev", "data science", "system design", "open source"],
+    technologies: {
+        backend: ["Spring Boot", "Django", "REST APIs", "Microservices"],
+        frontend: ["React", "HTML5", "CSS3", "Bootstrap"],
+        database: ["MySQL", "PostgreSQL", "MongoDB"],
+        tools: ["Git", "Docker", "Figma", "Streamlit"],
+        cloud: ["AWS", "Render", "Heroku"]
+    },
+    currentFocus: "Building scalable web applications with modern architecture",
+    funFact: "I debug with coffee and solve problems with curiosity ☕"
+};
 ```
 
-<p align="left"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> </p>
-📊 GitHub Stats:
- <img src="https://github-readme-stats.vercel.app/api?username=dravidpa7&show_icons=true&theme=radical" /> 
- <img src="https://github-contributor-stats.vercel.app/api?username=dravidpa7&limit=5&theme=dark&combine_all_yearly_contributions=true" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dravidpa7&layout=compact&theme=dark&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dravidpa7&theme=dark&hide_border=true" />
-✍️ Dev Quote
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </p>
-☕ Support Me
-If you like my work or want to support my learning journey:
+---
 
-<p> <a href="https://buymeacoffee.com/dravidpa"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /> </a> </p>
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=dravidpa7&icon=0&color=0" /> </p> <!-- Proudly created with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
+## 🔥 Featured Project
 
+<div align="center">
+  
+### 🧹 [Data Cleaning Playground](https://datacleaning-playground.onrender.com/)
+**Interactive Data Transformation Tool**
 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-37a779?style=for-the-badge)](https://datacleaning-playground.onrender.com/)
+[![GitHub](https://img.shields.io/badge/📂_Source_Code-black?style=for-the-badge&logo=github)](https://github.com/dravidpa7/data-cleaning-playground)
 
+*A powerful web-based platform for exploring, cleaning, and transforming messy datasets with an intuitive interface. Built with modern web technologies and data science libraries.*
 
+**🎯 Looking for collaborators!** Help me make data cleaning accessible to everyone.
 
+</div>
 
+---
 
+## 💫 What I'm Up To
 
+- 🌱 **Currently Learning:** Advanced Spring Boot, React.js, and cloud architecture patterns
+- 🔭 **Working On:** Building a comprehensive data analytics platform
+- 🤝 **Open to Collaborate:** Data science projects, full-stack applications, and open source contributions
+- 🎯 **2024 Goals:** Contribute to major open source projects and launch 3 production applications
+- ⚡ **Fun Fact:** I can explain complex algorithms using food analogies 🍕
 
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages & Core Technologies
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+### Tools & Design
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dravidpa7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dravidpa7&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dravidpa7&theme=tokyonight)
+
+</div>
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dravidpa7&theme=tokyo-night)
+
+</div>
+
+---
+
+## 🏆 Achievements & Stats
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dravidpa7&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+</div>
+
+<div align="center">
+  
+[![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=dravidpa7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/dravidpa7)
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dravid-p-a-)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dravid.p.a_)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+## 💭 Daily Inspiration
+
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## ☕ Support My Journey
+
+If you find my work valuable or want to support my learning journey:
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dravidpa)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dravidpa)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+![Snake Animation](https://github.com/dravidpa7/dravidpa7/blob/output/github-contribution-grid-snake.svg)
+
+**Thanks for visiting! Let's build something amazing together! 🚀**
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=dravidpa7&icon=6&color=6)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>💖 Built with passion and lots of coffee ☕</sub>
+</div>
