@@ -63,7 +63,6 @@ const dravid = {
 
 
 <div  align="center">
-## 🛠️ Tech Arsenal
 
 | Category | Tools & Technologies |
 |---|---|
