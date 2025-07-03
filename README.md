@@ -1,7 +1,7 @@
 <div align="center">
   
 # 🚀 Dravid P.A
-### Full Stack Developer | Data Architect | Open Source Contributor
+### Full Stack Developer | Open Source Contributor
 
 [![Profile Views](https://komarev.com/ghpvc/?username=dravidpa7&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/dravidpa7)
 [![GitHub followers](https://img.shields.io/github/followers/dravidpa7?style=flat-square&color=blue)](https://github.com/dravidpa7)
@@ -19,13 +19,13 @@ I'm a passionate **Full Stack Developer** with a keen eye for transforming compl
 const dravid = {
     pronouns: "he/him",
     code: ["Java", "Python", "JavaScript", "C"],
-    askMeAbout: ["web dev", "data science", "system design", "open source"],
+    askMeAbout: ["web dev", "data science", "ui design", "open source"],
     technologies: {
-        backend: ["Spring Boot", "Django", "REST APIs", "Microservices"],
+        backend: ["Spring Boot", "Django", "Microservices"],
         frontend: ["React", "HTML5", "CSS3", "Bootstrap"],
-        database: ["MySQL", "PostgreSQL", "MongoDB"],
-        tools: ["Git", "Docker", "Figma", "Streamlit"],
-        cloud: ["AWS", "Render", "Heroku"]
+        database: ["MySQL"],
+        tools: ["Git", "Figma", "Streamlit"],
+        cloud: [ "Render"]
     },
     currentFocus: "Building scalable web applications with modern architecture",
     funFact: "I debug with coffee and solve problems with curiosity ☕"
@@ -85,21 +85,15 @@ const dravid = {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Databases & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ### Tools & Design
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
 
@@ -184,11 +178,11 @@ If you find my work valuable or want to support my learning journey:
   
 ### 🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-![Snake Animation](https://github.com/dravidpa7/dravidpa7/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/dravidpa7/dravidpa7/blob/output/github-contribution-grid-snake2.svg)
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=dravidpa7&icon=6&color=6)
+![Visitor Count](https://profile-counter.glitch.me/dravidpa7/count.svg)
 
 </div>
 
