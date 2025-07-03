@@ -2,8 +2,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&background=000000&center=true&width=435&lines=Hi+I'm+Dravid;I+am+a+Frontend+Developer;I+Love+Learning+New+Tech)](https://git.io/typing-svg)
 
-### Full Stack Developer | Open Source Contributor
-
 [![Profile Views](https://komarev.com/ghpvc/?username=dravidpa7&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/dravidpa7)
 [![GitHub followers](https://img.shields.io/github/followers/dravidpa7?style=flat-square&color=blue)](https://github.com/dravidpa7)
 [![GitHub stars](https://img.shields.io/github/stars/dravidpa7?style=flat-square&color=yellow)](https://github.com/dravidpa7)
