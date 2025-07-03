@@ -178,7 +178,7 @@ If you find my work valuable or want to support my learning journey:
   
 ### 🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-![snake animation](https://github.com/dravidpa7/dravidpa7/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/dravidpa7/blob/output/github-contribution-grid-snake2.svg)
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
 
