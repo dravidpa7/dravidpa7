@@ -70,6 +70,12 @@ Interactive web platform for data transformation and cleaning
 
 </div>
 
+<!-- Example Metrics -->
+<div align="center">
+  <img src="https://github.com/dravidpa7/dravidpa7/blob/main/github-metrics.svg" alt="Metrics">
+</div>
+
+
 <div align="center">
   
 [![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=dravidpa7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/dravidpa7)
