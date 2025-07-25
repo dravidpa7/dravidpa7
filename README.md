@@ -76,7 +76,7 @@ Interactive web platform for data transformation and cleaning
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dravidpa7)](https://github.com/dravidpa7/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dravidpa7&show_icons=true&theme=radical)](https://github.com/dravidpa7/github-readme-stats)
 
 </div>
 
