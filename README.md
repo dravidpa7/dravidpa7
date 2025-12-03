@@ -71,7 +71,6 @@
 
 </div>
 
-## 🏆 Achievements & Stats
 
 <div align="center">
 
