@@ -24,19 +24,6 @@
 
 </div>
 
-<br/>
-
----
-
-<div align="center">
-
-### `> Got an idea? Let's build it.`
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-dravidpa7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dravidpa7)
-
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dravidpa7&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
