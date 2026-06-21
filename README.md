@@ -19,13 +19,8 @@
 <br/>
 
 <div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dravidpa7&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
-
-</div>
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=dravidpa7&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+</div>
 
 </div>
 
