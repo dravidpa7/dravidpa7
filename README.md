@@ -15,11 +15,8 @@
 
 <br/>
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dravidpa7&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=888888&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dravidpa7&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
+  <img height="400" src="https://goku-git-count.vercel.app/graph?username=dravidpa7" />
 
 
 <br/>
