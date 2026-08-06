@@ -15,13 +15,14 @@
 
 <br/>
 
-![COUNT](https://goku-git-count.vercel.app/graph?username=dravidpa7)
   
 
 <br/>
 
 <div align="center">
   
+![COUNT](https://goku-git-count.vercel.app/graph?username=dravidpa7)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dravidpa7&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=888888&point=ffffff&hide_border=true)
 
 
