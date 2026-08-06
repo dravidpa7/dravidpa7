@@ -15,9 +15,8 @@
 
 <br/>
 
-
-  <img height="400" src="https://goku-git-count.vercel.app/graph?username=dravidpa7" />
-
+![COUNT](https://goku-git-count.vercel.app/graph?username=dravidpa7)
+  
 
 <br/>
 
