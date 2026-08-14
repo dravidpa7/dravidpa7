@@ -21,7 +21,7 @@
 
 <div align="center">
   
-<img src="https://goku-git-count.vercel.app/graph?username=dravidpa7" width="400" height="auto" alt="COUNT" />
+<img src="https://goku-git-count.vercel.app/graph?username=dravidpa7" width="700" height="auto" alt="COUNT" />
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dravidpa7&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=888888&point=ffffff&hide_border=true)
